@@ -1,0 +1,18 @@
+[
+  { "id": 1, "title": "Inception", "genre": "Action", "year": 2010, "rating": 8.8 },
+  { "id": 2, "title": "The Dark Knight", "genre": "Action", "year": 2008, "rating": 9.0 },
+  { "id": 3, "title": "Mad Max: Fury Road", "genre": "Action", "year": 2015, "rating": 8.1 },
+  { "id": 4, "title": "Gladiator", "genre": "Action", "year": 2000, "rating": 8.5 },
+  { "id": 5, "title": "The Grand Budapest Hotel", "genre": "Comedy", "year": 2014, "rating": 8.1 },
+  { "id": 6, "title": "Superbad", "genre": "Comedy", "year": 2007, "rating": 7.6 },
+  { "id": 7, "title": "3 Idiots", "genre": "Comedy", "year": 2009, "rating": 8.4 },
+  { "id": 8, "title": "Jojo Rabbit", "genre": "Comedy", "year": 2019, "rating": 7.9 },
+  { "id": 9, "title": "The Shawshank Redemption", "genre": "Drama", "year": 1994, "rating": 9.3 },
+  { "id": 10, "title": "Forrest Gump", "genre": "Drama", "year": 1994, "rating": 8.8 },
+  { "id": 11, "title": "Parasite", "genre": "Drama", "year": 2019, "rating": 8.5 },
+  { "id": 12, "title": "Whiplash", "genre": "Drama", "year": 2014, "rating": 8.5 },
+  { "id": 13, "title": "Interstellar", "genre": "Sci-Fi", "year": 2014, "rating": 8.7 },
+  { "id": 14, "title": "Blade Runner 2049", "genre": "Sci-Fi", "year": 2017, "rating": 8.0 },
+  { "id": 15, "title": "Arrival", "genre": "Sci-Fi", "year": 2016, "rating": 7.9 },
+  { "id": 16, "title": "Get Out", "genre": "Horror", "year": 2017, "rating": 7.7 }
+]
